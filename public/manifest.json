@@ -44,7 +44,7 @@
 	"name": "Budget-Tracker",
 	"short_name": "B-Tracker",
 	"display": "standalone",
-	"start_url": ".",
+	"start_url": "https://hb-budget-tracker.herokuapp.com/",
 	"theme_color": "#ffffff",
 	"background_color": "#6666ff"
 }

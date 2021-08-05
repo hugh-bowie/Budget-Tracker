@@ -18,15 +18,11 @@
 
 A Mobile-First, Progressive Web Application (PWA) Budget Tracker that allows a user to track income and expenses online and offline.
 
-#### ![Deployed Application](https://heroku.app)
+#### ![Budget-Tracker.herokuapp](https://hb-budget-tracker.herokuapp.com/)
 
-## 🎬 Start the App then demo Users Routes
+## 🎬 Screenshot
 
-![budget-tracker](./assets/users-2.gif)
-
-## 🎬 Demo the Thoughts Routes
-
-![budget-tracker](./assets/thoughts.gif)
+![budget-tracker](./public/assets/budget-tracker.png)
 
 ## 🃏 User Story
 
