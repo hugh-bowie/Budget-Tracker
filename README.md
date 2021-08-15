@@ -22,7 +22,7 @@ A Mobile-First, Progressive Web Application (PWA) Budget Tracker that allows a u
 
 ## 🎬 Screenshot
 
-![budget-tracker](./public/assets/Budget-Tracker.gif)
+![budget-tracker](./public/assets/budget-tracker.gif)
 
 ## 🃏 User Story
 
